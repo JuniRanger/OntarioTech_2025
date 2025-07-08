@@ -7,7 +7,7 @@ This project is designed for students participating in our camp, where we will e
 
 OntarioTech’s Summer STEM Camp is an educational program aimed at inspiring students to dive into Science, Technology, Engineering, and Mathematics. This year, our focus is on real-world skills in building web applications and understanding how the backend works.
 
-## What You’ll Learn
+## What We will Learn
 
 - **Web Development:**  
   - Introduction to HTML, CSS, and JavaScript  
