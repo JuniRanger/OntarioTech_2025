@@ -1,7 +1,3 @@
-Certainly! Here’s a draft for your README.md, tailored for a summer STEM camp project focused on web and backend development:
-
----
-
 # OntarioTech 2025 – Summer STEM Camp
 
 Welcome to the OntarioTech 2025 Summer STEM Camp repository!  
